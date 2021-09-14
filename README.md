@@ -1,3 +1,3 @@
 # SoftwareTesting
-Выбранное для тестирования ПО - LibreOffice
+Выбранное для тестирования ПО - LibreOffice /n
 Состав команды:
