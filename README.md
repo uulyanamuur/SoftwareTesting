@@ -29,12 +29,20 @@ LibreOffice включает в себя следующие компоненты
 
 # Найденные методом черного ящика баги
 ## `BUG №1 - Невозможность изменения цвета линии`
-LibreOffice Writer предоставляет функцию рисования линии в документе, цвет которой по умолчанию синий. Для эсперимента было нарисовано несколько линий. При выделении линии и изменении цвета (на красный) всё работает, но сли же попробовать изменить цвет линии на любой другой до того, как нарисовать её (в данном случае был выбран синий по умолчанию), ничего не поменяется, и линия останется того же цвета, который был использован последним.
+LibreOffice Writer предоставляет функцию рисования линии в документе, цвет которой по умолчанию синий. Для эсперимента было нарисовано несколько линий. При выделении линии и изменении цвета (на красный) всё работает, но если же попробовать изменить цвет линии на любой другой до того, как нарисовать её (в данном случае был выбран синий по умолчанию), ничего не поменяется, и линия останется того же цвета, который был использован последним.
 ![bug1](https://sun9-10.userapi.com/impg/KJYJo7PDC4OG74sI4yE7mmFB6ORkvUt5epOfBA/y7HU5DsQFfw.jpg?size=1920x1080&quality=96&sign=63dc6a517215db22ed9185c2ca8eeefb&type=album)
 <br>
 ## `BUG №2 - Центр фигуры не смещается вместе с фигурой при её перемещении`
 При переходе в  в режим вращения фигуры и её перемещении в LibreOffice Impress или Draw можно увидеть, что центр фигуры остаётся на том месте, где был центр фигуры до перемещения. При этом фигура вращается по оси, заданной центром до перемещения. <br>
 <p align="center">
-<img src="https://sun9-64.userapi.com/impg/ePNuKRTFVuX5Zodc3c5J11XLMuJqAitgqBtBKQ/7BnArYXQhA0.jpg?size=567x797&quality=96&sign=f34b6d487b7778f3455c44766b801ff4&type=album" width="350" height="500">
-<img src="https://sun9-50.userapi.com/impg/lkO0WAVGZJTLdtkYfAm8T_WYo1bU4AQdJsFeCQ/iZZtvvAv7-I.jpg?size=564x800&quality=96&sign=e15eba050f59336e50d850a187440097&type=album" width="350" height="500">
-  </p>
+  <img src="https://sun9-64.userapi.com/impg/ePNuKRTFVuX5Zodc3c5J11XLMuJqAitgqBtBKQ/7BnArYXQhA0.jpg?size=567x797&quality=96&sign=f34b6d487b7778f3455c44766b801ff4&type=album" width="350" height="500">
+  <img src="https://sun9-50.userapi.com/impg/lkO0WAVGZJTLdtkYfAm8T_WYo1bU4AQdJsFeCQ/iZZtvvAv7-I.jpg?size=564x800&quality=96&sign=e15eba050f59336e50d850a187440097&type=album" width="350" height="500">
+</p><br>
+## `BUG №3 - Летающий текст в текстовом поле`
+При создании текстового поля и заполнении его текстом, можно добавить рамку. Изначально стиль линии у текстового поля стоит "none", но если поменять толщину линии, а затем поставить её тип, то текст будет выходить за рамку, либо рамка будет на него наезжать (в зависимости от толщины линии). <br>
+<p align="center">
+  <img src="https://sun9-88.userapi.com/impg/VD4soqGR5xgsZPFawj2izFgVuhkt1CqXKvluIg/xnStxxbIvfY.jpg?size=1366x768&quality=96&sign=838f6d2ae350eb2d0e702bcd8fcfb877&type=album">
+  <img src="https://sun9-9.userapi.com/impg/Y70U_An1QfQai3LFhKyjx4fnyzW7SYa8L1lsZg/-2PkUEAD4L0.jpg?size=451x523&quality=96&sign=c6f1d78e74f330937bdbdaa7dfe0d9ad&type=album">
+  <img src="https://sun9-36.userapi.com/impg/i02Yqye7jt1NFBP1hqwQRYSl3Ul1JXAtCW4_eQ/FtV1FkFrksA.jpg?size=1366x768&quality=96&sign=5967e6625b794c35b3dcfe3f6744216f&type=album">
+  <img src="https://sun9-85.userapi.com/impg/aM4ZSej0VLydAZCYOWZgbMgpnXjU9k_NTD4YIQ/RQa_AQDLz8s.jpg?size=1366x768&quality=96&sign=8e819adf66ab171f7bc026cde80ade77&type=album">
+ </p><br>
