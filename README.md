@@ -24,7 +24,7 @@ LibreOffice включает в себя следующие компоненты
 
 # Диаграмма вариантов использования
 <p align="center">
-<img src="https://sun9-10.userapi.com/impg/KJYJo7PDC4OG74sI4yE7mmFB6ORkvUt5epOfBA/y7HU5DsQFfw.jpg?size=1920x1080&quality=96&sign=63dc6a517215db22ed9185c2ca8eeefb&type=album">
+<img src="https://sun9-39.userapi.com/impg/gUzHVWxbLOnri_KnoxjHUNbN2p5ANUAvqxsCag/dP1cm7OxRnk.jpg?size=572x424&quality=96&sign=0cffa045c860ed46f74642f234a1aa8f&type=album">
 </p>
 
 # Найденные методом черного ящика баги
