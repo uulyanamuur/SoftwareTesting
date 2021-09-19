@@ -46,10 +46,14 @@ LibreOffice Writer предоставляет функцию рисования 
 ## `BUG №4 - Невозможность делать скрины при демонстрации презентации`
 При работе в LibreOffice Impress, если во время демонстрации презентации сделать скриншот экрана, делается скриншот самого редактора презентаций, а не данного слайда. В то время как при работе в Microsoft PowerPoint в данной ситуации делается скриншот нужного нам слайда.
 <br>
-<p align="center">
   Скриншоты из LibreOffice Impress <br>
   <img src="https://sun9-71.userapi.com/impg/55GO3_WM3Mf_ENmMUx2zELwnVexVE2GtrtysKg/NxXQpuinhYw.jpg?size=1920x1080&quality=96&sign=34895fc84db88d6f4db5ee35a74e92c7&type=album">
   <img src="https://sun9-53.userapi.com/impg/A-7muqwGgnKvb9_I1P0mfL3ieJNxcww9ciIv-w/415-a5KhDkM.jpg?size=1920x1080&quality=96&sign=a0e46bdf6622ec533cd36afb7e76a453&type=album">
   <br>Скриншот из Microsoft PowerPoint <br>
   <img src="https://sun9-82.userapi.com/impg/TH_hGT6YGBMRpoMCjvtxz4W0E9sc94vT2Gu5TA/JheZpG_8Njs.jpg?size=1920x1080&quality=96&sign=8c4c922312dc638af285a73717653860&type=album">
- </p><br>
+## `BUG №5 - Полосы на экране во время демонстрации презентаций`
+В режиме демонстрации презентации при переключении между слайдами, а также при просмотре видео или GIF изображения, на слайде мелькают черно-белые полосы. <br>
+![bug5](https://sun9-6.userapi.com/impg/ldjzMd3AcCBtnUFoqU6pr6jVeayOBAxpSeT5yQ/3hJB7SoM08Q.jpg?size=1080x567&quality=96&sign=f3faeaab91317eac818f21ccfe5730f0&type=album)
+  <img src="https://sun9-80.userapi.com/impg/jlbCoCPs1bWj4_5cqkqKbJPa9l0SYV4Pf2QlWg/4Eya3YkVOf0.jpg?size=1080x598&quality=96&sign=af36c04ad3b4d00180779a3fdf4510ff&type=album">
+  <img src="https://sun9-72.userapi.com/impg/aiTw07d4_905scW5VA5hct_JT3IUM8jQhPRyhQ/teUGizBH92U.jpg?size=1080x632&quality=96&sign=ca36188a62879569e8d8dc3fd77be0a3&type=album">
+<br>
