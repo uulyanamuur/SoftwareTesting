@@ -46,3 +46,13 @@ LibreOffice Writer предоставляет функцию рисования 
   <img src="https://sun9-36.userapi.com/impg/i02Yqye7jt1NFBP1hqwQRYSl3Ul1JXAtCW4_eQ/FtV1FkFrksA.jpg?size=1366x768&quality=96&sign=5967e6625b794c35b3dcfe3f6744216f&type=album">
   <img src="https://sun9-85.userapi.com/impg/aM4ZSej0VLydAZCYOWZgbMgpnXjU9k_NTD4YIQ/RQa_AQDLz8s.jpg?size=1366x768&quality=96&sign=8e819adf66ab171f7bc026cde80ade77&type=album">
  </p><br>
+## `BUG №4 - Невозможность делать скрины при демонстрации презентации`
+При работе в LibreOffice Impress, если во время демонстрации презентации сделать скриншот экрана, делается скриншот самого редактора презентаций, а не данного слайда. В то время как при работе в Microsoft PowerPoint в данной ситуации делается скриншот нужного нам слайда.
+<br>
+<p align="center">
+  Скриншоты из LibreOffice Impress <br>
+  <img src="https://sun9-71.userapi.com/impg/55GO3_WM3Mf_ENmMUx2zELwnVexVE2GtrtysKg/NxXQpuinhYw.jpg?size=1920x1080&quality=96&sign=34895fc84db88d6f4db5ee35a74e92c7&type=album">
+  <img src="https://sun9-53.userapi.com/impg/A-7muqwGgnKvb9_I1P0mfL3ieJNxcww9ciIv-w/415-a5KhDkM.jpg?size=1920x1080&quality=96&sign=a0e46bdf6622ec533cd36afb7e76a453&type=album">
+  <br>Скриншот из Microsoft PowerPoint <br>
+  <img src="https://sun9-82.userapi.com/impg/TH_hGT6YGBMRpoMCjvtxz4W0E9sc94vT2Gu5TA/JheZpG_8Njs.jpg?size=1920x1080&quality=96&sign=8c4c922312dc638af285a73717653860&type=album">
+ </p><br>
