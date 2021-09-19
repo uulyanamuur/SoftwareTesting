@@ -34,18 +34,15 @@ LibreOffice Writer предоставляет функцию рисования 
 <br>
 ## `BUG №2 - Центр фигуры не смещается вместе с фигурой при её перемещении`
 При переходе в режим вращения фигуры и её перемещении в LibreOffice Impress или Draw можно увидеть, что центр фигуры остаётся на том месте, где был центр фигуры до перемещения. При этом фигура вращается по оси, заданной центром до перемещения. <br>
-<p align="center">
-  <img src="https://sun9-64.userapi.com/impg/ePNuKRTFVuX5Zodc3c5J11XLMuJqAitgqBtBKQ/7BnArYXQhA0.jpg?size=567x797&quality=96&sign=f34b6d487b7778f3455c44766b801ff4&type=album" width="350" height="500">
-  <img src="https://sun9-50.userapi.com/impg/lkO0WAVGZJTLdtkYfAm8T_WYo1bU4AQdJsFeCQ/iZZtvvAv7-I.jpg?size=564x800&quality=96&sign=e15eba050f59336e50d850a187440097&type=album" width="350" height="500">
-</p><br>
+<img src="https://sun9-64.userapi.com/impg/ePNuKRTFVuX5Zodc3c5J11XLMuJqAitgqBtBKQ/7BnArYXQhA0.jpg?size=567x797&quality=96&sign=f34b6d487b7778f3455c44766b801ff4&type=album" width="350" height="500">
+<img src="https://sun9-50.userapi.com/impg/lkO0WAVGZJTLdtkYfAm8T_WYo1bU4AQdJsFeCQ/iZZtvvAv7-I.jpg?size=564x800&quality=96&sign=e15eba050f59336e50d850a187440097&type=album" width="350" height="500">
+<br>
 ## `BUG №3 - Летающий текст в текстовом поле`
 При создании текстового поля и заполнении его текстом, можно добавить рамку. Изначально стиль линии у текстового поля стоит "none", но если поменять толщину линии, а затем поставить её тип, то текст будет выходить за рамку, либо рамка будет на него наезжать (в зависимости от толщины линии). <br>
-<p align="center">
-  <img src="https://sun9-88.userapi.com/impg/VD4soqGR5xgsZPFawj2izFgVuhkt1CqXKvluIg/xnStxxbIvfY.jpg?size=1366x768&quality=96&sign=838f6d2ae350eb2d0e702bcd8fcfb877&type=album">
-  <img src="https://sun9-9.userapi.com/impg/Y70U_An1QfQai3LFhKyjx4fnyzW7SYa8L1lsZg/-2PkUEAD4L0.jpg?size=451x523&quality=96&sign=c6f1d78e74f330937bdbdaa7dfe0d9ad&type=album">
+![bug3](https://sun9-88.userapi.com/impg/VD4soqGR5xgsZPFawj2izFgVuhkt1CqXKvluIg/xnStxxbIvfY.jpg?size=1366x768&quality=96&sign=838f6d2ae350eb2d0e702bcd8fcfb877&type=album)
   <img src="https://sun9-36.userapi.com/impg/i02Yqye7jt1NFBP1hqwQRYSl3Ul1JXAtCW4_eQ/FtV1FkFrksA.jpg?size=1366x768&quality=96&sign=5967e6625b794c35b3dcfe3f6744216f&type=album">
   <img src="https://sun9-85.userapi.com/impg/aM4ZSej0VLydAZCYOWZgbMgpnXjU9k_NTD4YIQ/RQa_AQDLz8s.jpg?size=1366x768&quality=96&sign=8e819adf66ab171f7bc026cde80ade77&type=album">
- </p><br>
+<br>
 ## `BUG №4 - Невозможность делать скрины при демонстрации презентации`
 При работе в LibreOffice Impress, если во время демонстрации презентации сделать скриншот экрана, делается скриншот самого редактора презентаций, а не данного слайда. В то время как при работе в Microsoft PowerPoint в данной ситуации делается скриншот нужного нам слайда.
 <br>
