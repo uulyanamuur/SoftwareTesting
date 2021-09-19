@@ -33,7 +33,7 @@ LibreOffice Writer предоставляет функцию рисования 
 ![bug1](https://sun9-10.userapi.com/impg/KJYJo7PDC4OG74sI4yE7mmFB6ORkvUt5epOfBA/y7HU5DsQFfw.jpg?size=1920x1080&quality=96&sign=63dc6a517215db22ed9185c2ca8eeefb&type=album)
 <br>
 ## `BUG №2 - Центр фигуры не смещается вместе с фигурой при её перемещении`
-При переходе в  в режим вращения фигуры и её перемещении в LibreOffice Impress или Draw можно увидеть, что центр фигуры остаётся на том месте, где был центр фигуры до перемещения. При этом фигура вращается по оси, заданной центром до перемещения. <br>
+При переходе в режим вращения фигуры и её перемещении в LibreOffice Impress или Draw можно увидеть, что центр фигуры остаётся на том месте, где был центр фигуры до перемещения. При этом фигура вращается по оси, заданной центром до перемещения. <br>
 <p align="center">
   <img src="https://sun9-64.userapi.com/impg/ePNuKRTFVuX5Zodc3c5J11XLMuJqAitgqBtBKQ/7BnArYXQhA0.jpg?size=567x797&quality=96&sign=f34b6d487b7778f3455c44766b801ff4&type=album" width="350" height="500">
   <img src="https://sun9-50.userapi.com/impg/lkO0WAVGZJTLdtkYfAm8T_WYo1bU4AQdJsFeCQ/iZZtvvAv7-I.jpg?size=564x800&quality=96&sign=e15eba050f59336e50d850a187440097&type=album" width="350" height="500">
